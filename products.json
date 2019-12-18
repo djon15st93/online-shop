@@ -54,5 +54,13 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+
+    {
+        "id": "9",
+        "title": "Cap",
+        "image": "cap.jpg",
+        "description": "Best cap on the world",
+        "price": 500.99
     }
 ]
